@@ -1,8 +1,14 @@
 import React from "react";
+import "./Home.scss";
 
 class Home extends React.Component {
   render() {
-    return <h1>YUNO Homepage</h1>;
+    return (
+      <div>
+        <div className="jumbo-container d-flex"></div>
+        <h1>Upcoming Events</h1>
+      </div>
+    );
   }
 }
 
