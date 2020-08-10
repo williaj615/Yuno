@@ -6,9 +6,9 @@ class ContactForm extends React.Component {
     return (
       <div className="contact-form">
         <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLSfANypCj-VygrbZWonoZrrllPcHF_tU18t9NvV13XdnMNklXw/viewform?embedded=true"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSf9CX-KvDWeOL8NmOFvvCepEZ7NYV-QrQOzwi4A3i0NgCg66A/viewform?embedded=true"
           width="640"
-          height="1249"
+          height="1245"
           frameborder="0"
           marginheight="0"
           marginwidth="0"
