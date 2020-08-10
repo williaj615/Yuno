@@ -1,0 +1,21 @@
+// .heading-jumbo {
+//   margin-bottom: 0;
+//   height: 35%;
+//   margin-top: 0;
+//   padding-top: 0;
+//   .heading-container {
+//     margin-top: 0;
+//     padding-top: 0;
+//   }
+// }
+p.lead {
+  margin-bottom: 0;
+}
+.home-photo-grid img {
+  width: 25%;
+  margin: 1em;
+}
+
+.home-photo-grid img:hover {
+  opacity: 0.4;
+}
