@@ -5,7 +5,7 @@ class Programs extends React.Component {
   render() {
     return (
       <div>
-        <h1>Programs</h1>
+        <h1 className="mt-3">Programs</h1>
         <div className="page-content d-flex flex-column flex-wrap text-left ml-4">
           <h4>What is ultimate frisbee?</h4>
           <p>

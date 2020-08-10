@@ -5,7 +5,7 @@ import EventsContainer from "../../shared/EventsContainer/EventsContainer";
 class Events extends React.Component {
   render() {
     return (
-      <div className="events-page-container">
+      <div className="events-page-container mt-3">
         <h1>Upcoming YUNO Events</h1>
         <EventsContainer />
       </div>

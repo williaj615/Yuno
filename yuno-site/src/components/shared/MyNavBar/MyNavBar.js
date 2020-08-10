@@ -4,10 +4,10 @@ import "./MyNavBar.scss";
 class NavBar extends React.Component {
   render() {
     return (
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="/Home">
           <img
-            src="/Users/jasminewilliams/Desktop/side-projects/yuno/yuno-site/photos/YUNO LOGO.png"
+            src="https://raw.githubusercontent.com/williaj615/Yuno/master/yuno-site/photos/YUNO%20LOGO.png"
             alt="yuno-logo"
           ></img>
         </a>

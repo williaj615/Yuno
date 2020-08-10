@@ -5,7 +5,7 @@ class About extends React.Component {
   render() {
     return (
       <div>
-        <h1> About YUNO</h1>
+        <h1 className="mt-3"> About YUNO</h1>
         <div className="page-content d-flex flex-column flex-wrap text-left ml-5">
           <div className="mission-statement">
             <h3 className="">Mission Statement</h3>
