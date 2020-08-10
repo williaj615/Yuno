@@ -1,13 +1,3 @@
-.jumbo-container {
-  background-image: url("../../../photos/youthz.jpg");
-  background-size: cover;
-  background-position: center;
-  padding-top: 20rem;
-  padding-bottom: 6rem;
-  justify-content: center;
-  vertical-align: flex-start;
-}
-
 // .heading-jumbo {
 //   margin-bottom: 0;
 //   height: 35%;
@@ -20,4 +10,12 @@
 // }
 p.lead {
   margin-bottom: 0;
+}
+.home-photo-grid img {
+  width: 25%;
+  margin: 1em;
+}
+
+.home-photo-grid img:hover {
+  opacity: 0.4;
 }
