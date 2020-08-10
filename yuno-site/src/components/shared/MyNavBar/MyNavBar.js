@@ -6,7 +6,10 @@ class NavBar extends React.Component {
     return (
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="/Home">
-          YUNO
+          <img
+            src="/Users/jasminewilliams/Desktop/side-projects/yuno/yuno-site/photos/YUNO LOGO.png"
+            alt="yuno-logo"
+          ></img>
         </a>
         <button
           class="navbar-toggler"
@@ -39,6 +42,11 @@ class NavBar extends React.Component {
             <li class="nav-item">
               <a class="nav-link" href="/Resources">
                 Resources
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/Contact">
+                Contact
               </a>
             </li>
           </ul>

@@ -11,12 +11,26 @@ h3 {
 }
 
 .coach img {
-  height: 75%;
+  height: 65%;
 }
 
 .coach {
   width: 33.3%;
 }
 .mission-statement p {
-  font-weight: 450;
+  font-weight: 200;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+.team-container p {
+  font-weight: 200;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 1.5em;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.mission-text {
+  padding-bottom: 1em;
 }

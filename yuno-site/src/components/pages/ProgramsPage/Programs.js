@@ -1,4 +1,5 @@
 import React from "react";
+import "./Programs.scss";
 
 class Programs extends React.Component {
   render() {
